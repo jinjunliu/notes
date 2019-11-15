@@ -1,19 +1,13 @@
 ---
-date: 2017-10-19T15:26:15Z
-lastmod: 2019-10-26T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
+date: 2019-11-15T00:00:00-06:00
+lastmod: 2019-11-15T00:00:00-06:00
+publishdate: 2019-11-15T00:00:00-06:00
 ---
 
-# Hugo Techdoc Theme
+# 前言
 
-## The Techdoc is a Hugo Theme for technical documentation.
+Python是一门入门简单，功能强大的语言，特别是其丰富的第三方库，使得Python可以很简单地处理很多复杂的任务。Python在很多领域都获得了广泛的应用，在大气科学领域也越来越流行。
 
-## Features
+# NCL to Python
 
-* Modern, Simple layout
-* Responsive web design
-* Documentation menu (Select Menu style)
-* Theme color
-* Edit link to documentation repository
-* Custom Shortcodes
-* Analytics with Google Analytics, Google Tag Manager
+2019年，NCL官方发布了[Pivot to Python](https://www.ncl.ucar.edu/Document/Pivot_to_Python/september_2019_update.shtml)的声明，NCL版本不再更新，而是全面转向Python。NCL将以PyNGL，PyNIO等库的方式融入Python。

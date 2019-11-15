@@ -1,17 +1,20 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About"
+date = "2019-11-15"
 menu = "main"
 +++
 
-Hugo is a static site engine written in Go.
+关于我
+------
 
+男，91年生，目前博士在读，专业大气科学。
 
-It makes use of a variety of open source projects including:
+关于本站
+--------
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+这是我的个人Python学习笔记。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+联系方式
+--------
+
+E-mail: <ljj7129@gmail.com>
