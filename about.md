@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "关于"
 date = "2019-11-15"
 menu = "main"
 +++
