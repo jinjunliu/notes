@@ -16,7 +16,3 @@ weight: 10
 >If you’re using a 32-bit Python then the maximum memory allocation given to the Python process is exceptionally low. The specific maximum memory allocation limit varies and depends on your system, but it’s usually around 2 GB and certainly no more than 4 GB.
 
 除了从官网安装之外的另一个选项是安装Anaconda. 前往[Anaconda官网](https://www.anaconda.com/)下载最新版安装即可。Anaconda是Python的科学计算发行版本，安装Anaconda不仅安装了Python, 并且一些常用的Python库，如Numpy, Pandas, scipy, matplotlib等也一并打包安装了，非常方便。关于Anaconda的介绍和安装可参考[Seisman的博文](https://blog.seisman.info/anaconda/).
-
-### Linux
-
-Linux下推荐安装Anaconda.
