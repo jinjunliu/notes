@@ -1,13 +1,11 @@
 ---
-title: "安装"
+title: "下载与安装"
 date: 2019-11-15T00:00:00-06:00
 draft: false
 weight: 10
 ---
 
 ## 下载与安装
-
-### Windows
 
 对于windows用户，首先前往[Python官网](https://www.python.org/downloads/windows/)下载64位安装包，目前最新版是`3.8.0`, 找到最新版的`Download Windows x86 executable installer`点击即可下载。如何安装可参考[廖雪峰的网站](https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624)。
 
