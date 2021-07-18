@@ -17,4 +17,4 @@ menu = "main"
 联系方式
 --------
 
-E-mail: <ljj7129@gmail.com>
+E-mail: ljj7129 AT gmail DOT com

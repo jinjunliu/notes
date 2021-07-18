@@ -7,6 +7,7 @@ menu = "main"
 这个页面展示一些Python学习资源。
 
 ## Python基础
+* [Python官方教程](https://docs.python.org/3/tutorial/index.html)，官方出品，必看。
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400), 小白的Python入门教程。
 * [《从Python开始学编程》 - Vamei](https://book.douban.com/subject/26919485/), 豆瓣8.3高分评价。改编自Vamei博客的《Python快速教程》。本书以Python为样本，不仅介绍了编程的基本概念，还着重讲解编程语言的主流范式：面向过程、面向对象、面向函数。读者不仅可以轻松学会Python，以后再学习其他编程语言时也会更加容易。
 * [Full Speed Python](https://github.com/joaoventura/full-speed-python), 一个简短的快速入门教程，可下载PDF和epub版本。
@@ -24,3 +25,7 @@ menu = "main"
 ## Python在地球科学中的应用
 * [Python for the Geosciences](https://github.com/kthyng/python4geosciences), a class offered at Texas A&M University in the Oceanography department.
 * [Climate statistics](https://github.com/willyhagi/climate-statistics), some useful applications of Climate Statistics using Python.
+
+## 微信公众号
+* Python编程：LovePython
+* 气象学家：Meteorologist2019
