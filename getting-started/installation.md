@@ -13,4 +13,4 @@ weight: 10
 
 对于不同的项目，可能需要使用不同的Python环境。例如，某个项目需要使用Python 3.8, 另一个需要使用Python 3.9. 不同的项目可能还要求不同的package版本，这些package对Python本身的版本也有要求。如果只使用一个Python环境的话，将会非常混乱。
 
-这时候就需要使用环境管理器来隔离和管理不同的Python环境，Anaconda和Miniconda都自带conda环境管理器。如何使用conda参考[conda官方文档](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)。
+这时候就需要使用环境管理器来隔离和管理不同的Python环境，Anaconda和Miniconda都自带conda环境管理器。如何使用conda管理环境可参考[conda官方文档](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)。
