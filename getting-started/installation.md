@@ -7,9 +7,10 @@ weight: 10
 
 ## 下载与安装
 
-推荐安装Python的科学计算发行版本**Anaconda**. 前往[Anaconda官网](https://www.anaconda.com/)下载最新版安装即可。安装Anaconda不仅安装了Python, 并且一些常用的Python库，如Numpy, Pandas, scipy, matplotlib等也一并打包安装了，非常方便。关于Anaconda的介绍和安装可参考[Seisman的博文](https://blog.seisman.info/anaconda/).
+推荐安装Python的科学计算发行版本**Anaconda**. 前往[Anaconda官网](https://www.anaconda.com/)下载最新版安装即可。个人使用可选择Individual Edition，是免费的。安装Anaconda不仅安装了Python, 并且一些常用的Python库，如Numpy, Pandas, scipy, matplotlib等也一并打包安装了，非常方便。我个人比较喜欢安装[Miniconda](https://docs.conda.io/en/latest/miniconda.html)，因为自带的东西很少，但是同样可以使用`conda`包管理器。
 
-虽然对于64位的机器，既可以安装32位的也可以安装64位的，但最好能安装64位的版本，因为32位版本的Python可使用的内存只有`2G`左右，当程序需要使用大量内存时会发生内存不足的错误。参考[这篇博文](https://airbrake.io/blog/python-exception-handling/memoryerror)的这一段：
+## conda管理Python环境
 
->If you’re using a 32-bit Python then the maximum memory allocation given to the Python process is exceptionally low. The specific maximum memory allocation limit varies and depends on your system, but it’s usually around 2 GB and certainly no more than 4 GB.
+对于不同的项目，可能需要使用不同的Python环境。例如，某个项目需要使用Python 3.8, 另一个需要使用Python 3.9. 不同的项目可能还要求不同的package版本，这些package对Python本身的版本也有要求。如果只使用一个Python环境的话，将会非常混乱。
 
+这时候就需要使用环境管理器来隔离和管理不同的Python环境，Anaconda和Miniconda都自带conda环境管理器。如何使用conda参考[conda官方文档](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)。
