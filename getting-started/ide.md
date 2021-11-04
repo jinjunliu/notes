@@ -14,4 +14,4 @@ Pycharm是一款很好用的IDE, 由JetBrains公司开发. 前往[PyCharm官网]
 
 ## VS Code
 
-如果说Pycharm适合比较大型的工程，那么Visual Studio Code更适合比较轻量级的项目。VS Code由微软开发，现在占有率蹭蹭往上涨。VS Code是免费并开源的。可以在[VS Code官网](https://code.visualstudio.com/)下载安装。
+如果说Pycharm适合比较大型的工程，那么Visual Studio Code更适合比较轻量级的项目。VS Code由微软开发，现在占有率蹭蹭往上涨。VS Code是免费并开源的。可以在[VS Code官网](https://code.visualstudio.com/)下载安装。VS Code要用得顺手的话，得安装一些必要的插件，例如`Python`, `Pylance`, `Python Docstring Generator`等等，在VS Code的extension那里搜索安装就行。这里强烈推荐[GitHub Copilot](https://copilot.github.com/)，人工智能辅助写代码，用完之后会感到惊喜的，不得不说AI太强大了。据说Copilot也可以在PyCharm里作为插件安装了，不过我还没试过。
