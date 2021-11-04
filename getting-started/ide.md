@@ -14,4 +14,4 @@ Pycharm是一款很好用的IDE, 由JetBrains公司开发. 前往[PyCharm官网]
 
 ## VS Code
 
-如果说Pycharm适合比较大型的工程，那么Visual Studio Code更适合比较轻量级的项目。VS Code由微软开发，现在占有率蹭蹭往上涨。VS Code是免费并开源的。可以在VS Code官网[https://code.visualstudio.com/]下载安装。
+如果说Pycharm适合比较大型的工程，那么Visual Studio Code更适合比较轻量级的项目。VS Code由微软开发，现在占有率蹭蹭往上涨。VS Code是免费并开源的。可以在[VS Code官网](https://code.visualstudio.com/)下载安装。
