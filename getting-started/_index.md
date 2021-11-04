@@ -9,12 +9,8 @@ weight: 9
 
 ## [安装](./installation)
 
-Python的安装
+Python环境的安装
 
-## [使用VS Code](./vscode)
+## [IDE的选择](./python-ide)
 
-使用VS Code来编写、运行Python程序
-
-## [使用Jupyter Notebook](./jupyter)
-
-使用Jupyter Notebook来编写、运行Python程序
+Python IDE的选择和使用
