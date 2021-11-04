@@ -11,6 +11,6 @@ weight: 9
 
 Python环境的安装
 
-## [IDE的选择](./python-ide)
+## [IDE的选择](./ide)
 
 Python IDE的选择和使用
