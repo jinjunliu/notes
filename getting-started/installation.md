@@ -5,7 +5,7 @@ draft: false
 weight: 10
 ---
 
-## 下载与安装
+## 安装Anaconda或者Miniconda
 
 推荐安装Python的科学计算发行版本**Anaconda**. 前往[Anaconda官网](https://www.anaconda.com/)下载最新版安装即可。个人使用可选择Individual Edition，是免费的。安装Anaconda不仅安装了Python, 并且一些常用的Python库，如Numpy, Pandas, scipy, matplotlib等也一并打包安装了，非常方便。我个人比较喜欢安装[Miniconda](https://docs.conda.io/en/latest/miniconda.html)，因为自带的东西很少，但是同样可以使用`conda`包管理器。
 
