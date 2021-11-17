@@ -1,9 +1,7 @@
 ---
 title: "IDE的选择"
 date: 2019-11-16T00:00:00-06:00
-lastmod: 2019-11-16T00:00:00-06:00
 draft: false
-weight: 20
 ---
 
 IDE (Intergrated Develepment Environment)，即集成开发环境。IDE会提供诸如自动补全，语法检查，编译运行等等功能，会大大节约开发时间，下面是几款比较好用的Python IDE.
