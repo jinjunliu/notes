@@ -2,6 +2,7 @@
 title: "下载与安装"
 date: 2019-11-15T00:00:00-06:00
 draft: false
+weight: 11
 ---
 
 ## 安装Anaconda或者Miniconda
