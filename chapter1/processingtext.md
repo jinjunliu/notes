@@ -23,8 +23,8 @@ Python文本处理可用于：
 import string
 ```
 
-字符串模块包含了一些常用的字符串操作，比如：
-    
+字符串模块包含了一些常用的字符串操作，比如下面是一些predefined字符串常量：
+
 ```
 string.ascii_letters
 string.ascii_lowercase
@@ -37,3 +37,18 @@ string.printable
 string.whitespace
 ```
 
+在Visual Studio Code中，可以使用`Ctrl+Shift+P`打开command palette，输入`python`，然后选择`Run Python File in Terminal`，这样就可以在terminal中运行python代码了。
+
+如果打印以上字符串常量，可以看到它们的值为：
+
+```
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+0123456789abcdefABCDEF
+01234567
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
+```
