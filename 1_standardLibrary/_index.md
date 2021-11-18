@@ -14,3 +14,7 @@ Python标准库对文本的处理。
 ## [数据处理](./manipulatingdata)
 
 Python标准库对数据的处理。
+
+## [文件处理](./filesanddirectories)
+
+Python标准库对文件和目录的处理。
