@@ -5,7 +5,7 @@ draft: false
 weight: 20
 ---
 
-本章节是Linkedin Learning课程[Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training/python-text-processing)的学习笔记。Python标准库也就是Python自带的一些库，可以进行文本处理、数据分析、文件和文件夹、网络爬虫等等。
+本章是Linkedin Learning课程[Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training/python-text-processing)的学习笔记。Python标准库也就是Python自带的一些库，可以进行文本处理、数据分析、文件和文件夹、网络爬虫等等。运行本章需要`Python 3.6`或更新的版本。
 
 ## [文本处理](./1.1_processing_text)
 
