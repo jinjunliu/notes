@@ -21,13 +21,13 @@ Python文本处理可用于：
 
 导入字符串模块：
 
-```
+```python
 import string
 ```
 
 字符串模块包含了一些常用的字符串操作，比如下面是一些predefined字符串常量：
 
-```
+```python
 string.ascii_letters
 string.ascii_lowercase
 string.ascii_uppercase
@@ -57,7 +57,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 提取字符串中的ascii字母：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog on the 1st of December"
 result = "".join(c for c in s if c in string.ascii_letters)
 print(result)
@@ -73,7 +73,7 @@ ThequickbrownfoxjumpsoverthelazydogonthestofDecember
 
 检查字符串中是否只包含字母和数字、是否只包含字母、是否只包含数字，分别为：
 
-```
+```python
 result = s.isalnum()
 result = s.isalpha()
 result = s.isnumeric()
@@ -83,7 +83,7 @@ result = s.isnumeric()
 
 也可以使用`all`函数来检查字符串中是否只包含字母和数字：
 
-```
+```python
 result = all([c.isalnum() for c in s])
 ```
 
@@ -91,7 +91,7 @@ result = all([c.isalnum() for c in s])
 
 `startswith`和`endswith`函数可以用来检查字符串是否以指定的字符串开头或结尾，如果是，则返回True，否则返回False。例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.startswith("The")
 print(result)
@@ -103,7 +103,7 @@ print(result)
 
 `find`和`rfind`函数可以用来检查字符串是否包含指定的字符串，如果是，则返回第一个匹配的字符串的索引，否则返回-1。`find`函数从左向右查找，`rfind`函数从右向左查找。例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.find("the")
 print(result)
@@ -115,7 +115,7 @@ print(result)
 
 检查字符串中是否包含指定的字符串：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = "the" in s
 print(result)
@@ -125,7 +125,7 @@ print(result)
 
 `replace`函数可以用来替换字符串中的指定字符串，例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.replace("the", "a")
 print(result)
@@ -135,7 +135,7 @@ print(result)
 
 `count`函数可以用来统计字符串中指定的字符串出现的次数，例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.count("the")
 print(result)
@@ -147,7 +147,7 @@ print(result)
 
 `upper`和`lower`函数可以用来把字符串中的大写字母转换成小写字母，例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.upper()
 print(result)
@@ -159,7 +159,7 @@ print(result)
 
 `split`和`join`可以把字符串进行分割和合并，`split`的默认分隔符是空格，`join`前面的字符串是用来指定分割符的，例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.split()
 print(result)
@@ -171,7 +171,7 @@ print(result)
 
 `ljust`、`rjust`和`center`函数可以用来指定字符串的左、右或者中间对齐，例如：
 
-```
+```python
 names = ["John", "Paul", "George", "Ringo"]
 biggest_name = max(len(name) for name in names)
 for name in names:
@@ -201,7 +201,7 @@ Ringo---:
 
 使用translation table来替换字符串中的字符，例如：
 
-```
+```python
 s = "The quick brown fox jumps over the lazy dog"
 result = s.translate(str.maketrans("aeiou", "12345"))
 print(result)
@@ -213,19 +213,19 @@ print(result)
 
 使用template string来格式化字符串，首先导入string模块的Template类：
 
-```
+```python
 from string import Template
 ```
 
 使用Template类来创建一个template，例如：
 
-```
+```python
 t = Template("$x, glorious $x!")
 ```
 
 然后使用substitute方法来替换模板中的变量，例如：
 
-```
+```python
 result = t.substitute(x="world")
 print(result)
 ```
@@ -234,7 +234,7 @@ print(result)
 
 也可以创建一个dictionary来替换模板中的变量，例如：
 
-```
+```python
 args = {"x": "world"}
 result = t.substitute(args)
 print(result)
@@ -244,7 +244,7 @@ print(result)
 
 使用`format`方法也可以用来格式化字符串，例如：
 
-```
+```python
 foo = "foo"
 bar = 123
 result = "The {} number is {}".format(foo, bar)
@@ -263,13 +263,13 @@ print(result)
 
 该特性至少需要Ptyhon 3.6版本。导入`datetime`模块（后面需要格式化时间变量）：
 
-```
+```python
 import datetime
 ```
 
 使用f-string来格式化字符串，例如：
 
-```
+```python
 now = datetime.datetime.now()
 product = "coffee"
 price = 4.99
