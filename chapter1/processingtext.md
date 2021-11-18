@@ -52,3 +52,90 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 ```
+
+提取字符串中的ascii字母：
+
+```
+s = "The quick brown fox jumps over the lazy dog on the 1st of December"
+result = "".join(c for c in s if c in string.ascii_letters)
+print(result)
+```
+
+输入结果是：
+
+```
+ThequickbrownfoxjumpsoverthelazydogonthestofDecember
+```
+
+这样就把所有的ascii字母都提取出来了，其他的数字和空格被排除在外。
+
+检查字符串中是否只包含字母和数字、是否只包含字母、是否只包含数字，分别为：
+
+```
+result = s.isalnum()
+result = s.isalpha()
+result = s.isnumeric()
+```
+
+输出结果是bool值，例如，第一个result如果为True，则表示字符串中只包含字母和数字，如果为False，则表示字符串中包含字母和数字以外的字符。
+
+也可以使用`all`函数来检查字符串中是否只包含字母和数字：
+
+```
+result = all([c.isalnum() for c in s])
+```
+
+## Searching strings
+
+`startswith`和`endswith`函数可以用来检查字符串是否以指定的字符串开头或结尾，如果是，则返回True，否则返回False。例如：
+
+```
+s = "The quick brown fox jumps over the lazy dog"
+result = s.startswith("The")
+print(result)
+result = s.endswith("on")
+print(result)
+```
+
+两次输出结果是：True和False。
+
+`find`和`rfind`函数可以用来检查字符串是否包含指定的字符串，如果是，则返回第一个匹配的字符串的索引，否则返回-1。`find`函数从左向右查找，`rfind`函数从右向左查找。例如：
+
+```
+s = "The quick brown fox jumps over the lazy dog"
+result = s.find("the")
+print(result)
+result = s.rfind("the")
+print(result)
+```
+
+输出结果是：31和31.
+
+检查字符串中是否包含指定的字符串：
+
+```
+result = "the" in s
+print(result)
+```
+
+输出结果是：True.
+
+`replace`函数可以用来替换字符串中的指定字符串，例如：
+
+```
+s = "The quick brown fox jumps over the lazy dog"
+result = s.replace("the", "a")
+print(result)
+```
+
+输出结果是：`The quick brown fox jumps over a lazy dog`。
+
+`count`函数可以用来统计字符串中指定的字符串出现的次数，例如：
+
+```
+s = "The quick brown fox jumps over the lazy dog"
+result = s.count("the")
+print(result)
+```
+
+输出结果是：1. 
