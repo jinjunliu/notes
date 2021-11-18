@@ -6,7 +6,7 @@ publishdate: 2019-11-15T00:00:00-06:00
 
 # Python简介
 
-[官方文档（3.10版本）](https://docs.python.org/3/tutorial/index.html)对Python的简介：
+[Python文档](https://docs.python.org/3/tutorial/index.html)对Python的简介：
 
 > Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 

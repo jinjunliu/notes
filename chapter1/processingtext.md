@@ -277,3 +277,5 @@ print(result)
 ```
 
 输出结果是：`Today's date is 2021-11-17 and the product is coffee and the price is 4.99 with tax 0.35`。
+
+更多字符串有关的操作可以参考[Python文档](https://docs.python.org/3/library/string.html)。
