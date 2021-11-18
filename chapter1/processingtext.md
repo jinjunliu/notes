@@ -5,6 +5,8 @@ draft: false
 weight: 21
 ---
 
+本节讨论了Python中的字符串处理函数。
+
 ## Python text processing
 
 Python文本处理可用于：
