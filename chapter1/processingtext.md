@@ -1,5 +1,5 @@
 ---
-title: "Python标准库"
+title: "Processing Text"
 date: 2021-11-17T00:00:00-06:00
 draft: false
 weight: 21
@@ -19,20 +19,21 @@ Python文本处理可用于：
 
 导入字符串模块：
 
-    ``` {.sourceCode .python}
-    import string
-    ```
+```
+import string
+```
 
 字符串模块包含了一些常用的字符串操作，比如：
     
-        ``` {.python .small}
-        string.ascii_letters
-        string.ascii_lowercase
-        string.ascii_uppercase
-        string.digits
-        string.hexdigits
-        string.octdigits
-        string.punctuation
-        string.printable
-        string.whitespace
-        ```
+```
+string.ascii_letters
+string.ascii_lowercase
+string.ascii_uppercase
+string.digits
+string.hexdigits
+string.octdigits
+string.punctuation
+string.printable
+string.whitespace
+```
+
