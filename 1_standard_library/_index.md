@@ -18,3 +18,7 @@ Python标准库对数据的处理。
 ## [文件处理](./1.3_files_and_directories)
 
 Python标准库对文件和目录的处理。
+
+## [数字处理](./1.4_working_with_numbers)
+
+Python标准库对数字的处理。诸如随机数、加密、统计学等等。
