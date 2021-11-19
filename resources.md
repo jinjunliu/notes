@@ -22,6 +22,10 @@ menu = "main"
 * [Python for Data Analysis, by Wes McKinney, 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=pd_sbs_14_t_0/138-2541457-4601702), instructions for manipulating, processing, cleaning, and crunching datasets in Python.
 * [pydata-book](https://github.com/wesm/pydata-book), Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media.
 
+## Python数据可视化
+
+* [Scientific Visualization Book](https://github.com/rougier/scientific-visualization-book), 一本关于使用`Matplotlib`进行数据可视化的书。
+
 ## Python在地球科学中的应用
 * [Python for the Geosciences](https://github.com/kthyng/python4geosciences), a class offered at Texas A&M University in the Oceanography department.
 * [Climate statistics](https://github.com/willyhagi/climate-statistics), some useful applications of Climate Statistics using Python.
