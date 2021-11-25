@@ -2,6 +2,7 @@
 title = "Python Resources"
 date = "2019-11-15"
 menu = "main"
+weight = 1
 +++
 
 这个页面展示一些Python学习资源。
