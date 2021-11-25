@@ -1,5 +1,5 @@
 +++
-title = "Python学习资源"
+title = "Python Resources"
 date = "2019-11-15"
 menu = "main"
 +++
