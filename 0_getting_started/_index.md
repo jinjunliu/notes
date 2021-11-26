@@ -1,5 +1,5 @@
 ---
-title: "开始"
+title: "Getting started"
 date: 2019-11-15T00:00:00-06:00
 draft: false
 weight: 10
