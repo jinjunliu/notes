@@ -5,16 +5,14 @@ publishdate: 2019-11-15T00:00:00-06:00
 weight: 0
 ---
 
-# Python简介
+# Introduction
 
-[Python文档](https://docs.python.org/3/tutorial/index.html)对Python的简介：
+According to the official documentation, Python is a programming language that lets you work more quickly and integrate systems more effectively. It is especially useful for web development, data science, and many other fields.
+
+The first paragraph of the [official documentation](https://docs.python.org/3/tutorial/index.html) is:
 
 > Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-使用DeepL中文翻译如下:
+# About this site
 
-> Python是一种易于学习、功能强大的编程语言。它具有高效的高层数据结构和简单而有效的面向对象的编程方法。Python优雅的语法和动态类型，加上它的解释性质，使它成为大多数平台上许多领域的脚本和快速应用开发的理想语言。
-
-# 关于本站
-
-本站是我的个人Python学习笔记，更多请参考[关于](https://python-notes.jinjunliu.com/about/)。
+This website is my personal learning notes of Python. I am not responsible for the correctness of the content.
