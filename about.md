@@ -7,7 +7,7 @@ weight: 2
 
 ## About me
 
-A PhD student majoring Atmospheric Sciences. I am also a passionate programmer and insterested in the field of data science, especially in the field of machine learning.
+A PhD student majoring Atmospheric Sciences. I am also a passionate programmer and insterested in the field of data science, especially in machine learning.
 
 ## About this site
 
