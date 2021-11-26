@@ -11,7 +11,7 @@ This page shows some Python learning resources.
 
 * [Python offical tutorial](https://docs.python.org/3/tutorial/index.html), the official Python tutorial, a must-read for any Python beginner.
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400), a great Python tutorial, in Chinese.
-* [《从Python开始学编程》- Vamei](https://book.douban.com/subject/26919485/), 豆瓣8.3高分评价。改编自Vamei博客的《Python快速教程》。本书以Python为样本，不仅介绍了编程的基本概念，还着重讲解编程语言的主流范式：面向过程、面向对象、面向函数。读者不仅可以轻松学会Python，以后再学习其他编程语言时也会更加容易。
+* [《从Python开始学编程》- Vamei](https://book.douban.com/subject/26919485/). High rating of 8.3 out of 10 on Douban. Adapted from Vamei's blog, quick Tutorials for Python. Using Python as a sample, this book not only introduces the basic concepts of programming, but also focuses on the mainstream paradigms of programming languages: procedural-oriented, object-oriented, and function-oriented. Readers will not only learn Python easily, but will also learn other programming languages more easily in the future. The book is in Chinese.
 * [Full Speed Python](https://github.com/joaoventura/full-speed-python), a short and simple Python tutorial. PDF and epub formats are available.
 * [Beginners Python Cheat Sheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html), a Python cheatsheet for beginners.
 * [Learning Python, by Mark Lutz, 5th Edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=asc_df_1449355730/), a comprehensive Python tutorial, 1600 pages long.
