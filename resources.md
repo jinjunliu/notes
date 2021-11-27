@@ -15,7 +15,7 @@ This page shows some Python learning resources.
 * [Full Speed Python](https://github.com/joaoventura/full-speed-python), a short and simple Python tutorial. PDF and epub formats are available.
 * [Beginners Python Cheat Sheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html), a Python cheatsheet for beginners.
 * [Learning Python, by Mark Lutz, 5th Edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=asc_df_1449355730/), a comprehensive Python tutorial, 1600 pages long.
-* [UCB CS 61A](https://cs61a.org/), A public course `structures and interpretation of computer programs` taught by UC Berkeley's Computer Science department. Python is the language of choice for this course.
+* [UCB CS 61A](https://cs61a.org/), a public course `structures and interpretation of computer programs` taught by UC Berkeley's Computer Science department. Python is the language of choice for this course.
 
 ## Python modules
 
