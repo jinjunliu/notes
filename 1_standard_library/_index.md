@@ -28,3 +28,7 @@ Working with numbers with Python standard library, such as random numbers, encry
 ## [Dates and times](./1.5_dates_and_times)
 
 The operations on dates and times in the Python standard library.
+
+## [Internet Functionality](./1.6_internet_functionality)
+
+Internet Functionality with Python standard library.
