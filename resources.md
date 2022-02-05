@@ -1,5 +1,5 @@
 ---
-title: Python Resources
+title: Resources
 date: 2019-11-15
 menu: main
 weight: 1
