@@ -16,7 +16,7 @@ This page shows some Python learning resources.
 * [Beginners Python Cheat Sheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html), a Python cheatsheet for beginners.
 * [Learning Python, by Mark Lutz, 5th Edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=asc_df_1449355730/), a comprehensive Python tutorial, 1600 pages long.
 * [UCB CS 61A](https://cs61a.org/), a public course `structures and interpretation of computer programs` taught by UC Berkeley's Computer Science department. Python is the language of choice for this course.
-* [Beginning Python from novice to professional](https://link.springer.com/book/10.1007/978-1-4842-0028-5), by Magnus Lie Hetland. Includes ten projects to provide hands-on learning. Updated for Python 3 Covers language internals, database integration, network programming, and web services.
+* [Beginning Python from novice to professional](https://link.springer.com/book/10.1007/978-1-4842-0028-5), by Magnus Lie Hetland. **Free to download!** Includes ten projects to provide hands-on learning. Updated for Python 3 Covers language internals, database integration, network programming, and web services.
 
 ## Python modules
 
