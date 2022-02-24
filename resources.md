@@ -5,7 +5,7 @@ menu: main
 weight: 1
 ---
 
-This page shows some Python learning resources.
+This page shows some learning resources.
 
 ## Python basics
 
