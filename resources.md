@@ -40,3 +40,7 @@ This page shows some learning resources.
 
 * Python编程: LovePython
 * 气象学家: Meteorologist2019
+
+## Others
+
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
