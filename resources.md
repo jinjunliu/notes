@@ -43,4 +43,4 @@ This page shows some learning resources.
 
 ## Others
 
-* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! Also available in [Chinese version](https://missing-semester-cn.github.io/).
