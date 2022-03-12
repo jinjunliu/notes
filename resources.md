@@ -41,6 +41,13 @@ This page shows some learning resources.
 * Python编程: LovePython
 * 气象学家: Meteorologist2019
 
+## Research
+
+* [TempestExtremes](https://climate.ucdavis.edu/tempestextremes.php)
+* [Model Vertical Coordinate](https://www.cesm.ucar.edu/models/atm-cam/docs/usersguide/node25.html)
+* [Tropycal](https://tropycal.github.io/tropycal/), Tropycal is a Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time, and is geared towards the research and operational meteorology sectors.
+* [Last Millennium Ensemble Project](https://www.cesm.ucar.edu/projects/community-projects/LME/)
+
 ## Others
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! Also available in [Chinese version](https://missing-semester-cn.github.io/).
