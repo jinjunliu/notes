@@ -19,4 +19,4 @@ Table of Contents:
 * [Creating Databases and Tables](./6.8_creating_databases_and_tables)
 * [Assessment Test 3](./6.9_assessment_test_3)
 * [Conditional Expressions and Procedures](./6.10_conditional_expressions_and_procedures)
-* [Extra: PostGreSQL](./6.11_extra_postgresql)
+* [Extra: PostgreSQL](./6.11_extra_postgresql)
