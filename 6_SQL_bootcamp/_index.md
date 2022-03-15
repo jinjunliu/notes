@@ -7,7 +7,7 @@ weight: 700
 
 This chapter is a notebook for Udemy course [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/) by Jose Portilla.
 
-Table of Contents:
+## Table of Contents:
 
 * [Introduction](./6.1_introduction)
 * [SQL Statement Fundamentals](./6.2_sql_statement_fundamentals)
