@@ -47,6 +47,7 @@ This page shows some learning resources.
 * [Model Vertical Coordinate](https://www.cesm.ucar.edu/models/atm-cam/docs/usersguide/node25.html)
 * [Tropycal](https://tropycal.github.io/tropycal/), Tropycal is a Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time, and is geared towards the research and operational meteorology sectors.
 * [Last Millennium Ensemble Project](https://www.cesm.ucar.edu/projects/community-projects/LME/)
+* [Tropycal](https://tropycal.github.io/tropycal/), Tropycal is a Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time, and is geared towards the research and operational meteorology sectors.
 
 ## Others
 
