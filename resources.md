@@ -59,3 +59,7 @@ This page shows some learning resources.
 * [Gatech OMSCS, and UIUC MBA](https://drive.google.com/drive/folders/1CAfYy5IBJJ3xiFqk7d3vWpZFQGOgLp8t?usp=sharing), a Google drive link to course materials for Gatech OMSCS and UIUC MBA.
 * [名校公开课程评价网名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/), a collection of comments for awesome courses, in Chinese.
 * [Open Source Society University](https://github.com/ossu/), Empowering learners to master college curricula through free resources. Choose a major and start today!
+* [CMU CS15-213](https://www.cs.cmu.edu/~213/), Introduction to Computer Systems (ICS) by Carnegie Mellon University.
+    * [Video](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)
+    * [Slides](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
+    * [Code](http://csapp.cs.cmu.edu/3e/imcode.html)
