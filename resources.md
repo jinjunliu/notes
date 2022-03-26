@@ -58,4 +58,4 @@ This page shows some learning resources.
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! Also available in [Chinese version](https://missing-semester-cn.github.io/).
 * [Gatech OMSCS, and UIUC MBA](https://drive.google.com/drive/folders/1CAfYy5IBJJ3xiFqk7d3vWpZFQGOgLp8t?usp=sharing), a Google drive link to course materials for Gatech OMSCS and UIUC MBA.
 * [名校公开课程评价网名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/), a collection of comments for awesome courses, in Chinese.
-* [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science)
+* [Open Source Society University](https://github.com/ossu/), Empowering learners to master college curricula through free resources. Choose a major and start today!
