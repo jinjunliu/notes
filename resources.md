@@ -60,6 +60,10 @@ This page shows some learning resources.
     * [Slides](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
     * [Code](http://csapp.cs.cmu.edu/3e/imcode.html)
 
+## Cryptocurrency
+
+* [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/), by Stanford University. The course covers all aspects of blockchains and cryptocurrencies, including distributed consensus, smart contracts, economics, scalability, and applications. We will focus on Bitcoin and Ethereum as case studies.
+
 ## Others
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! Also available in [Chinese version](https://missing-semester-cn.github.io/).
