@@ -35,6 +35,7 @@ This page shows some learning resources.
 
 * [Python for the Geosciences](https://github.com/kthyng/python4geosciences), a class offered at Texas A&M University in the Oceanography department.
 * [Climate statistics](https://github.com/willyhagi/climate-statistics), some useful applications of Climate Statistics using Python.
+* [Python-geos](https://github.com/abishekg7/python_geos), tutorials for Python in geosciences.
 
 ## Wechat official accounts
 
