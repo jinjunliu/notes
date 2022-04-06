@@ -12,7 +12,7 @@ Table of Contents:
 * [Introduction](./5.1_introduction)
 * [Why Change?](./5.2_why_change)
 * [What is Hadoop?](./5.3_what_is_hadoop)
-* [Understanding Hadoop Core Components](./5.4_understanding_hadoop_core_components)
+* [Understanding Hadoop Core Components](./5.4_hadoop_core_components)
 * [Setting Up Hadoop Development Environment](./5.5_setting_up_hadoop_development_environment)
 * [Understanding MapReduce 1.0](./5.6_understanding_mapreduce_1_0)
 * [Tuning MapReduce](./5.7_tuning_mapreduce)
