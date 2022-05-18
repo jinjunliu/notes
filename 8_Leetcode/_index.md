@@ -22,6 +22,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 * [Container With Most Water](https://notes.jinjunliu.com/8_leetcode/8.3_two_pointers/#container-with-most-water)
 * [Remove Nth Node From End of List](https://notes.jinjunliu.com/8_leetcode/8.3_two_pointers/#remove-nth-node-from-end-of-list)
 
+5/18/2022:
+
+* [Add Two Numbers](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#add-two-numbers)
+* [Merge Two Sorted Lists](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#merge-two-sorted-lists)
 
 Resources:
 
