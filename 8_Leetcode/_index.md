@@ -9,4 +9,4 @@ This is a notebook to record solving the [leetcode](https://leetcode.com/) probl
 
 5/15/2022:
 
-* [3Sum](https://leetcode.com/problems/3sum/)
+* [3Sum](https://notes.jinjunliu.com/8_leetcode/8.1_array/#3sum)
