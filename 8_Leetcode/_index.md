@@ -16,3 +16,9 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Longest Substring Without Repeating Characters](https://notes.jinjunliu.com/8_leetcode/8.2_string/#longest-substring-without-repeating-characters)
 * [Longest Palindromic Substring](https://notes.jinjunliu.com/8_leetcode/8.2_string/#longest-palindromic-substring)
+
+
+Resources:
+
+* https://books.halfrost.com/leetcode/
+* [Coding Interview Preparation - Kaiyu Zheng](/images/Coding_Interview_Preparation_document.pdf)
