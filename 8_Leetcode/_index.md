@@ -33,6 +33,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Valid Parentheses](https://notes.jinjunliu.com/8_leetcode/8.5_stack/#valid-parentheses)
 
+5/20/2022:
+
+* [Simplify Path](https://notes.jinjunliu.com/8_leetcode/8.5_stack/#simplify-path)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -46,6 +50,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 
 
 Resources and References:
