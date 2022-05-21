@@ -37,6 +37,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Simplify Path](https://notes.jinjunliu.com/8_leetcode/8.5_stack/#simplify-path)
 
+5/21/2022:
+
+* [Binary Tree Inorder Traversal](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#binary-tree-inorder-traversal)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -51,6 +55,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 
 
 Resources and References:
