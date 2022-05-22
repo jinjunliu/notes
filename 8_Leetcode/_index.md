@@ -40,6 +40,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 5/21/2022:
 
 * [Binary Tree Inorder Traversal](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#binary-tree-inorder-traversal)
+* [Unique Binary Search Trees](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#unique-binary-search-trees)
 
 ## Table of Solved Problems
 
@@ -56,6 +57,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
 
 
 Resources and References:
