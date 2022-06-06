@@ -42,6 +42,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 * [Binary Tree Inorder Traversal](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#binary-tree-inorder-traversal)
 * [Unique Binary Search Trees](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#unique-binary-search-trees)
 
+5/27/2022:
+
+* [Generate Parentheses](https://notes.jinjunliu.com/8_leetcode/8.7_dynamic_programming/#generate-parentheses)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -55,6 +59,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
