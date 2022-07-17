@@ -68,4 +68,4 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 Resources and References:
 
 * https://books.halfrost.com/leetcode/
-* [Coding Interview Preparation - Kaiyu Zheng](/images/Coding_Interview_Preparation_document.pdf)
+* [Coding Interview Preparation - Kaiyu Zheng](/docs/Coding_Interview_Preparation_document.pdf)
