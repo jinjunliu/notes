@@ -46,6 +46,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Generate Parentheses](https://notes.jinjunliu.com/8_leetcode/8.7_dynamic_programming/#generate-parentheses)
 
+7/27/2022:
+
+* [Letter Combinations of a Phone Number](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#letter-combinations-of-a-phone-number)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -56,6 +60,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
