@@ -50,6 +50,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Letter Combinations of a Phone Number](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#letter-combinations-of-a-phone-number)
 
+7/29/2022:
+
+* [Combination Sum](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#combination-sum)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -65,6 +69,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
