@@ -54,6 +54,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Combination Sum](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#combination-sum)
 
+8/16/2022:
+
+* [Validate Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#validate-binary-search-tree)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -73,6 +77,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
 
 
 Resources and References:
