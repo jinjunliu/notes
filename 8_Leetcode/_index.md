@@ -58,6 +58,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Validate Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#validate-binary-search-tree)
 
+8/17/2022:
+
+* [Recover Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#recover-binary-search-tree)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -78,6 +82,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium |
 
 
 Resources and References:
