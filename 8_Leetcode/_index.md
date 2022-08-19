@@ -65,6 +65,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 8/18/2022:
 
 * [Same Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#same-tree)
+* [Symmetric Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#symmetric-tree)
 
 ## Table of Solved Problems
 
@@ -88,6 +89,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
 
 
 Resources and References:
