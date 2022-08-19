@@ -58,13 +58,13 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Validate Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#validate-binary-search-tree)
 
-8/18/2022:
-
-* [Same Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#same-tree)
-
 8/17/2022:
 
 * [Recover Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#recover-binary-search-tree)
+
+8/18/2022:
+
+* [Same Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#same-tree)
 
 ## Table of Solved Problems
 
