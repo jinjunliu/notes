@@ -75,6 +75,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Linked List Cycle II](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#linked-list-cycle-ii)
 
+8/22/2022:
+
+* [First Bad Version](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#first-bad-version)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -100,7 +104,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
-
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
 
 Resources and References:
 
