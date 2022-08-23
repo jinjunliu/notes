@@ -78,6 +78,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 8/22/2022:
 
 * [First Bad Version](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#first-bad-version)
+* [Sqrt(x)](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#sqrtx)
 
 ## Table of Solved Problems
 
@@ -96,6 +97,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
