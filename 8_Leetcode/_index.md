@@ -79,6 +79,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [First Bad Version](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#first-bad-version)
 * [Sqrt(x)](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#sqrtx)
+* [Search Insert Position](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#search-insert-position)
 
 ## Table of Solved Problems
 
@@ -96,6 +97,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
