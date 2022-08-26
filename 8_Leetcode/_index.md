@@ -81,6 +81,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 * [Sqrt(x)](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#sqrtx)
 * [Search Insert Position](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#search-insert-position)
 
+8/25/2022:
+
+* [Capacity to Ship Packages Within D Days](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#capacity-to-ship-packages-within-d-days)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -109,6 +113,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
+| 1011 | [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
 
 Resources and References:
 
