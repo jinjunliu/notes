@@ -85,6 +85,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Capacity to Ship Packages Within D Days](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#capacity-to-ship-packages-within-d-days)
 
+8/27/2022:
+
+* [Reverse Integer](https://notes.jinjunliu.com/8_leetcode/8.12_math/#reverse-integer)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -92,6 +96,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium |
