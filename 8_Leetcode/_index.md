@@ -102,7 +102,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
 
 
-Resources and References:
+## Resources
 
 * https://books.halfrost.com/leetcode/
 * [Coding Interview Preparation - Kaiyu Zheng](/docs/Coding_Interview_Preparation_document.pdf)
