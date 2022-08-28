@@ -89,11 +89,13 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Reverse Integer](https://notes.jinjunliu.com/8_leetcode/8.12_math/#reverse-integer)
 * [Palindrome Number](https://notes.jinjunliu.com/8_leetcode/8.12_math/#palindrome-number)
+* [Two Sum](https://notes.jinjunliu.com/8_leetcode/8.13_hash_table/#two-sum)
 
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
 | ------ | ----- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
