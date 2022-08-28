@@ -88,6 +88,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 8/27/2022:
 
 * [Reverse Integer](https://notes.jinjunliu.com/8_leetcode/8.12_math/#reverse-integer)
+* [Palindrome Number](https://notes.jinjunliu.com/8_leetcode/8.12_math/#palindrome-number)
 
 ## Table of Solved Problems
 
@@ -97,6 +98,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium |
