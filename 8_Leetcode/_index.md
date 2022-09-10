@@ -96,6 +96,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 * [Group Anagrams](https://notes.jinjunliu.com/8_leetcode/8.14_sorting/#group-anagrams)
 * [Merge Intervals](https://notes.jinjunliu.com/8_leetcode/8.14_sorting/#merge-intervals)
 
+9/10/2022:
+
+* [Add Binary](https://notes.jinjunliu.com/8_leetcode/8.15_bit_manipulation/#add-binary)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -119,6 +123,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
