@@ -100,6 +100,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Add Binary](https://notes.jinjunliu.com/8_leetcode/8.15_bit_manipulation/#add-binary)
 
+9/17/2022:
+
+* [Longest Consecutive Sequence](https://notes.jinjunliu.com/8_leetcode/8.16_union_find/#longest-consecutive-sequence)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -132,6 +136,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
 | 1011 | [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
