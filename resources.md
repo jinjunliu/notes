@@ -69,6 +69,7 @@ This page shows some learning resources.
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! Also available in [Chinese version](https://missing-semester-cn.github.io/).
 * [Gatech OMSCS, and UIUC MBA](https://drive.google.com/drive/folders/1CAfYy5IBJJ3xiFqk7d3vWpZFQGOgLp8t?usp=sharing), a Google drive link to course materials for Gatech OMSCS and UIUC MBA.
-* [名校公开课程评价网名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/), a collection of comments for awesome courses, in Chinese.
+* [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/), a collection of comments for awesome courses, in Chinese.
 * [Open Source Society University](https://github.com/ossu/), Empowering learners to master college curricula through free resources. Choose a major and start today!
 * [CMU public courses](https://fanpu.io/cmu-online/), publicly accessible courses from Carnegie Mellon University. 
+* [CS自学指南](https://csdiy.wiki/), a Chinese version of the CS self-study guide.
