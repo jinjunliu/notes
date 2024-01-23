@@ -104,6 +104,10 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 
 * [Longest Consecutive Sequence](https://notes.jinjunliu.com/8_leetcode/8.16_union_find/#longest-consecutive-sequence)
 
+01/22/2024:
+
+* [Merge Strings Alternately](https://notes.jinjunliu.com/8_leetcode/8.2_string/#merge-strings-alternately)
+
 ## Table of Solved Problems
 
 | Number | Title | Difficulty |
@@ -140,6 +144,7 @@ This is a notebook to record the [leetcode](https://leetcode.com/) problems that
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
 | 1011 | [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy |
 
 ## Resources
 
