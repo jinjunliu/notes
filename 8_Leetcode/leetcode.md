@@ -7,109 +7,36 @@ weight: 900
 
 This is a notebook to record the [leetcode](https://leetcode.com/) problems that I have solved. I am trying to solve one or two problems every day.
 
-## Daily Leetcode Problems and Solutions
+## Solved Leetcode Problems
 
-5/15/2022:
+In chronological order:
 
-* [3Sum](https://notes.jinjunliu.com/8_leetcode/8.1_array/#3sum)
-* [3Sum Closest](https://notes.jinjunliu.com/8_leetcode/8.1_array/#3sum-closest)
+| Date | Problem | type |
+| ---- | ------- | ---- |
+| 5/15/2022 | 3Sum, 3Sum Closest | array |
+| 5/16/2022 | Longest Substring Without Repeating Characters, Longest Palindromic Substring | string |
+| 5/17/2022 | Container With Most Water, Remove Nth Node From End of List | two pointers |
+| 5/18/2022 | Add Two Numbers, Merge Two Sorted Lists | linked list |
+| 5/19/2022 | Valid Parentheses | stack |
+| 5/20/2022 | Simplify Path | stack |
+| 5/21/2022 | Binary Tree Inorder Traversal, Unique Binary Search Trees | tree |
+| 5/27/2022 | Generate Parentheses | dynamic programming |
+| 7/27/2022 | Letter Combinations of a Phone Number | Backtracking |
+| 7/29/2022 | Combination Sum | Backtracking |
+| 8/16/2022 | Validate Binary Search Tree | DFS |
+| 8/17/2022 | Recover Binary Search Tree | DFS |
+| 8/18/2022 | Same Tree, Symmetric Tree | BFS |
+| 8/19/2022 | Search in Rotated Sorted Array | Binary Search |
+| 8/20/2022 | Linked List Cycle II | Linked List |
+| 8/22/2022 | First Bad Version, Sqrt(x), Search Insert Position | Binary Search |
+| 8/25/2022 | Capacity to Ship Packages Within D Days | Binary Search |
+| 8/27/2022 | Reverse Integer, Palindrome Number, Two Sum | Math, Hash Table |
+| 9/8/2022 | Group Anagrams, Merge Intervals | Sorting |
+| 9/10/2022 | Add Binary | Bit Manipulation |
+| 9/17/2022 | Longest Consecutive Sequence | Union Find |
+| 01/22/2024 | Merge Strings Alternately, Reverse Words in a String | String |
 
-5/16/2022:
-
-* [Longest Substring Without Repeating Characters](https://notes.jinjunliu.com/8_leetcode/8.2_string/#longest-substring-without-repeating-characters)
-* [Longest Palindromic Substring](https://notes.jinjunliu.com/8_leetcode/8.2_string/#longest-palindromic-substring)
-
-5/17/2022:
-
-* [Container With Most Water](https://notes.jinjunliu.com/8_leetcode/8.3_two_pointers/#container-with-most-water)
-* [Remove Nth Node From End of List](https://notes.jinjunliu.com/8_leetcode/8.3_two_pointers/#remove-nth-node-from-end-of-list)
-
-5/18/2022:
-
-* [Add Two Numbers](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#add-two-numbers)
-* [Merge Two Sorted Lists](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#merge-two-sorted-lists)
-
-5/19/2022:
-
-* [Valid Parentheses](https://notes.jinjunliu.com/8_leetcode/8.5_stack/#valid-parentheses)
-
-5/20/2022:
-
-* [Simplify Path](https://notes.jinjunliu.com/8_leetcode/8.5_stack/#simplify-path)
-
-5/21/2022:
-
-* [Binary Tree Inorder Traversal](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#binary-tree-inorder-traversal)
-* [Unique Binary Search Trees](https://notes.jinjunliu.com/8_leetcode/8.6_tree/#unique-binary-search-trees)
-
-5/27/2022:
-
-* [Generate Parentheses](https://notes.jinjunliu.com/8_leetcode/8.7_dynamic_programming/#generate-parentheses)
-
-7/27/2022:
-
-* [Letter Combinations of a Phone Number](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#letter-combinations-of-a-phone-number)
-
-7/29/2022:
-
-* [Combination Sum](https://notes.jinjunliu.com/8_leetcode/8.8_backtracking/#combination-sum)
-
-8/16/2022:
-
-* [Validate Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#validate-binary-search-tree)
-
-8/17/2022:
-
-* [Recover Binary Search Tree](https://notes.jinjunliu.com/8_leetcode/8.9_dfs/#recover-binary-search-tree)
-
-8/18/2022:
-
-* [Same Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#same-tree)
-* [Symmetric Tree](https://notes.jinjunliu.com/8_leetcode/8.10_bfs/#symmetric-tree)
-
-8/19/2022:
-
-* [Search in Rotated Sorted Array](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#search-in-rotated-sorted-array)
-
-8/20/2022:
-
-* [Linked List Cycle II](https://notes.jinjunliu.com/8_leetcode/8.4_linked_list/#linked-list-cycle-ii)
-
-8/22/2022:
-
-* [First Bad Version](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#first-bad-version)
-* [Sqrt(x)](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#sqrtx)
-* [Search Insert Position](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#search-insert-position)
-
-8/25/2022:
-
-* [Capacity to Ship Packages Within D Days](https://notes.jinjunliu.com/8_leetcode/8.11_binary_search/#capacity-to-ship-packages-within-d-days)
-
-8/27/2022:
-
-* [Reverse Integer](https://notes.jinjunliu.com/8_leetcode/8.12_math/#reverse-integer)
-* [Palindrome Number](https://notes.jinjunliu.com/8_leetcode/8.12_math/#palindrome-number)
-* [Two Sum](https://notes.jinjunliu.com/8_leetcode/8.13_hash_table/#two-sum)
-
-9/8/2022:
-
-* [Group Anagrams](https://notes.jinjunliu.com/8_leetcode/8.14_sorting/#group-anagrams)
-* [Merge Intervals](https://notes.jinjunliu.com/8_leetcode/8.14_sorting/#merge-intervals)
-
-9/10/2022:
-
-* [Add Binary](https://notes.jinjunliu.com/8_leetcode/8.15_bit_manipulation/#add-binary)
-
-9/17/2022:
-
-* [Longest Consecutive Sequence](https://notes.jinjunliu.com/8_leetcode/8.16_union_find/#longest-consecutive-sequence)
-
-01/22/2024:
-
-* [Merge Strings Alternately](https://notes.jinjunliu.com/8_leetcode/8.2_string/#merge-strings-alternately)
-* [Reverse Words in a String](https://notes.jinjunliu.com/8_leetcode/8.2_string/#reverse-words-in-a-string)
-
-## Table of Solved Problems
+In numerical order:
 
 | Number | Title | Difficulty |
 | ------ | ----- | ---------- |
