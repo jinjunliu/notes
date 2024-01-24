@@ -1,6 +1,8 @@
 ‌# Summary​
 
-* [Python Standard Library](1_standard_library/stardard_library.md)
+* [Resources](resources.md)
+
+* [Python Standard Library](1_standard_library/standard_library.md)
     * [Processing Text](1_standard_library/1.1_processing_text.md)
     * [Manipulating Data](1_standard_library/1.2_manipulating_data.md)
     * [Files and Directories](1_standard_library/1.3_files_and_directories.md)
