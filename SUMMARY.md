@@ -1,6 +1,6 @@
 ‌# Summary​
 
-* [Python Standard Library](1_standard_library/_index.md)
+* [Python Standard Library](1_standard_library/stardard_library.md)
     * [Processing Text](1_standard_library/1.1_processing_text.md)
     * [Manipulating Data](1_standard_library/1.2_manipulating_data.md)
     * [Files and Directories](1_standard_library/1.3_files_and_directories.md)
@@ -8,7 +8,7 @@
     * [Dates and Times](1_standard_library/1.5_dates_and_times.md)
     * [Internet functionality](1_standard_library/1.6_internet_functionality.md)
 
-* [Data Structure and Algorithms](3_data_structure_and_algorithms/_index.md)
+* [Data Structure and Algorithms](3_data_structure_and_algorithms/data_structure_and_algorithms.md)
     * [Big O Notation](3_data_structure_and_algorithms/3.2_big_o_notation.md)
     * [Classes and Pointers](3_data_structure_and_algorithms/3.3_classes_and_pointers.md)
     * [Linked List](3_data_structure_and_algorithms/3.4_linked_list.md)
@@ -23,7 +23,7 @@
     * [Tree Traversal](3_data_structure_and_algorithms/3.13_tree_traversal.md)
     * [Links](3_data_structure_and_algorithms/3.14_links.md)
 
-* [Leetcode](8_Leetcode/_index.md)
+* [Leetcode](8_Leetcode/leetcode.md)
     * [Array](8_Leetcode/8.1_array.md)
     * [String](8_Leetcode/8.2_string.md)
     * [Two Pointers](8_Leetcode/8.3_two_pointers.md)
