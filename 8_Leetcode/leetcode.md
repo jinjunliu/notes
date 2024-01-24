@@ -35,6 +35,7 @@ In chronological order:
 | 9/10/2022 | Add Binary | Bit Manipulation |
 | 9/17/2022 | Longest Consecutive Sequence | Union Find |
 | 01/22/2024 | Merge Strings Alternately, Reverse Words in a String | String |
+| 01/23/2024 | Greatest Common Divisor of Strings, Product of Array Except Self | String, Array |
 
 In numerical order:
 
@@ -71,8 +72,10 @@ In numerical order:
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
 | 1011 | [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy |
 
 ## Resources
