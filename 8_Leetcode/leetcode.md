@@ -5,7 +5,7 @@ draft: false
 weight: 900
 ---
 
-This is a notebook to record the [leetcode](https://leetcode.com/) problems that I have solved. I am trying to solve one or two problems every day.
+This notebook records the Leetcode problems I have solved.
 
 ## Solved Leetcode Problems
 
