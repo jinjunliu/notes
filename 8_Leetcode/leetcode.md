@@ -37,6 +37,7 @@ In chronological order:
 | 01/22/2024 | Merge Strings Alternately, Reverse Words in a String | String |
 | 01/23/2024 | Greatest Common Divisor of Strings, Product of Array Except Self | String, Array |
 | 01/24/2024 | Kids With the Greatest Number of Candies, Increasing Triplet Subsequence | Array |
+| 08/03/2024 | Reverse Vowels of a String | Two Pointers |
 
 In numerical order:
 
@@ -76,6 +77,7 @@ In numerical order:
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy |
 | 1011 | [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy |
