@@ -39,6 +39,7 @@ In chronological order:
 | 01/24/2024 | Kids With the Greatest Number of Candies, Increasing Triplet Subsequence | Array |
 | 08/03/2024 | Reverse Vowels of a String | Two Pointers |
 | 05/30/2025 | String Compression | Two Pointers, String |
+| 05/30/2025 | Move Zeros | Two Pointers, Array |
 
 In numerical order:
 
@@ -77,6 +78,7 @@ In numerical order:
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
+| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium |
